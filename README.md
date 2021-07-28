@@ -1,2 +1,3 @@
 # GoldmanSachsVirtualExpereince
-All resources ,documentation ,links and more. Used to complete  the Virtual Experience @Forage.
+All resources,documentation,links and more. 
+Used to complete  the Virtual Experience @Forage.
