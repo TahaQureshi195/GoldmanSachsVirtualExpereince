@@ -1,0 +1,8 @@
+Visit the docs page for more: https://hashcat.net/hashcat/
+Take a look at this resource for a step-by-step tutorial for hashcat : https://hashcat.net/hashcat/
+Refer this page to identify the hash / hash mode /and to view examples : https://hashcat.net/wiki/doku.php?id=example_hashes (Best Page)
+
+
+Yes, RockYou is free just unzip it and start using it.
+Use the command : sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
+*Not recommended if you don't have a strong GPU in your PC.
